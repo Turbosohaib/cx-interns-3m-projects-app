@@ -8,8 +8,8 @@ Both front next & back strapi apps will be started after successful npm packages
 
 After successful front & back apps starting navigate to the following routes:
 
-#### Next.js: http://localhost:3000
-##### Credentials: sohaib / sohaib123
+### Next.js: http://localhost:3000
+#### Credentials: sohaib / sohaib123
 
 ### Strapi: http://localhost:1337/admin
 #### Credentials: admin@email.com / Admin123
